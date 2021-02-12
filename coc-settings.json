@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": ["--ignore=E303, W291, W292, W293, W391, E231"]
+}
